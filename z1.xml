@@ -1,0 +1,19 @@
+<mojipodaci>
+	<punoIme>
+		<ime>Djordje</ime>
+		<prezime>Stojkovic</prezime>
+	</punoIme>
+	<datumRodjenja>
+		<dan>18</dan>
+		<mesec>Jul</mesec>
+		<godina>1997</godina>		
+	</datumRodjenja>
+	<adresa>
+		<ulica>Vojvode Stepe</ulica>
+		<grad>Gornji Beograd</grad>
+		<naselje>Kumodraz</naselje>
+		<grad>Beograd</grad>
+		<drzava>Srbija</drzava>
+		<ptt>nmp</ptt>
+	</adresa>
+</pojipodaci>

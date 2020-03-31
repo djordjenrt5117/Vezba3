@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE AutoOglas SYSTEM "autooglas.dtd">
+<Automobil>
+	<proizvodjac>Toyota</proizvodjac>
+	<model tip="karavan">Korola</model>
+	<godiste>2003</godiste>
+	<farba tip="metalik">Plava</farba>
+	<zapremina tip="l">1.4</zapremina>
+	<transmisija tip="manuelni">5 brzina</transmisija>
+	<gorivo tng="da">benzin</gorivo>
+	<cena value="eur">2000</cena>
+	<kontakt>123456789</kontakt>
+</Automobil>

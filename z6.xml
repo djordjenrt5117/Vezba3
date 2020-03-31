@@ -1,0 +1,14 @@
+<fakultet>
+	<student status="" indeks="">
+		<osoba>
+			<ime></ime>
+			<prezime></prezime>
+			<mestoRodjenja></mestoRodjenja>
+			<datumRodjenja></datumRodjenja>
+		</osoba>
+		<upisi>
+			<semestar broj="" godina="" vrsta="" ></semestar>
+		</upisi>
+	</student>
+
+</fakultet>

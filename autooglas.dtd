@@ -1,0 +1,13 @@
+<!DOCTYPE AutoOglas
+[
+<!ELEMENT Automobil (proizvodjac,model,godiste,farba,zapremina,transmisija,gorivo,cena,kontakt)>
+<!ELEMENT proizvodjac (#PCDATA)>
+<!ELEMENT model (#PCDATA)*>
+<!ELEMENT godiste (#PCDATA)>
+<!ELEMENT farba (("akril")|("metalik")+>
+<!ELEMENT zapremina (("ccm")|("l"))>
+<!ELEMENT transmisija (("manuelni")|("auto")+)>
+<!ELEMENT gorivo (("da")|("ne")*)>
+<!ELEMENT cena (("din")|("eur")+)>
+<!ELEMENT kontakt (#PCDATA)>
+]>
